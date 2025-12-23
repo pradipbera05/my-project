@@ -3,3 +3,5 @@
  i completed my graduation 
  i love to play cricket football
  in free time i do codeing 
+ this is my first git repo i love this journey 
+ 
