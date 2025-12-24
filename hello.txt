@@ -1,3 +1,6 @@
 hello i give my simple description of my analyst journey .
-
+first of all i learn python (pandas, numpy )
+than i learn sql
+after that i learn power bi for better visulization 
+I know the basics of Excel formulas from before so i help me alot 
 
