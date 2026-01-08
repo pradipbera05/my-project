@@ -1,0 +1,34 @@
+{
+    "greetings": [
+        "Hi there! What's up? What can I do for you?",
+        "Hello! How can I help you today?",
+        "Hey! Great to see you. What's on your mind?",
+        "Greetings! How is your day going?"
+    ],
+    "random_facts": [
+        "Systems online. Processing request...",
+        "Error 404: Bot is currently daydreaming.",
+        "Did you know that 101010 in binary is 42?",
+        "Everything is looking good on my end."
+    ],
+    "funny": [
+        "Haha, good one!",
+        "I don't get it...",
+        "Tell me more!",
+        "That's wild."
+    ],
+    "fallback": [
+        "I'm not sure I understand.",
+        "Could you rephrase that?",
+        "My database is drawing a blank on that one."
+    ],
+
+
+"how_are_you": [
+        "I'm doing great, thanks for asking! how can i help you ?",
+        "My circuits are buzzing with energy! tell me What i do for you ? " ,
+        "I'm feeling extra digital today. how can i hlep  you digitaly ?",
+        "Processing at 100% efficiency. All systems good! how can i help you ?"
+    ]
+
+}
