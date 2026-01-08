@@ -1,0 +1,62 @@
+"i make ai   that if i give text this like or news or many thing  it give sumarize like this what i do in backend        give sumary like this                                                                                                                                      ### **Role Overview (S2P / P2P – Sourcing Buyer)**
+This role is about **managing procurement and sourcing activities** for Genpact’s global clients. You will handle the **end-to-end sourcing process**, negotiate with suppliers, drive **cost savings**, and ensure compliance with client procurement policies.
+
+---
+
+### **About the Company**
+Genpact is a global advanced technology and services company focused on **AI, digital transformation, and business process excellence**. It works with leading enterprises worldwide and is known for innovation, analytics, and operational efficiency.
+
+---
+
+### **What You’ll Do (In Simple Words)**
+- Handle **procurement of goods and services** (mainly indirect spend)
+- Run **RFP/RFQ/RFX and e-Auctions** using procurement tools
+- Manage **S2P (Source-to-Pay) and P2P (Procure-to-Pay)** processes
+- **Negotiate** with suppliers on pricing and contract terms
+- Analyze quotations and recommend the **best suppliers**
+- Raise purchase orders and support **category managers**
+- Track and **record cost savings**
+- Work closely with internal teams and clients
+- Mentor junior buyers and help improve **operational efficiency**
+---
+
+### **Tools & Skills Required**
+- Procurement tools: **Zycus (preferred), Coupa, Ariba**
+- Good knowledge of **Excel, PowerPoint, Word**
+- Understanding of **ERP systems and digital tools**
+- Experience with **US/UK sourcing** is a plus
+- Lean / Six Sigma certification is an advantage
+- Strong **communication, negotiation, and stakeholder management**
+---
+
+### **Who This Role Is Best For**
+- Someone with **hands-on sourcing/procurement experience**
+- Comfortable working in a **global, fast-paced environment**
+- Interested in **AI-enabled procurement and digital transformation**
+- A team player who enjoys **problem-solving and negotiations**
+---
+
+### **Why Join**
+- Work at the **cutting edge of AI and automation**
+- Global exposure and career growth
+- Strong learning, mentorship, and innovation culture
+  this kind of summarize what i maintain in backend"
+print(clean_text(text)
+
+clean:
+i make ai that if i give text this like or news or many thing it give sumarize like this what i do in backend give sumary like this Role Overview S2P P2P 
+– Sourcing Buyer This role is about managing procurement and sourcing activities for Genpact’s global clients You will handle the endtoend sourcing process negotiate with suppliers drive cost savings and ensure compliance with client procurement policies About the Company Genpact is a global advanced technology and services company focused on AI digital transformation and business process excellence It works with leading enterprises worldwide and is known for innovation analytics and operational efficiency What You’ll Do In 
+Simple Words Handle procurement of goods and services mainly indirect 
+spend Run RFPRFQRFX and eAuctions using procurement tools
+ Manage S2P SourcetoPay and P2P ProcuretoPay processes Negotiate with
+  suppliers on pricing and contract terms Analyze quotations and recommend the best
+   suppliers Raise purchase orders and support category managers Track and record cost savings Work closely with internal teams and clients
+    Mentor junior buyers and help 
+   improve operational efficiency Tools Skills Required 
+   Procurement tools Zycus preferred Coupa Ariba Good knowledge of Excel PowerPoint Word 
+   Understanding of ERP systems and digital tools Experience 
+   with USUK sourcing is a plus Lean Six Sigma certification is an advantage Strong communication negotiation and stakeholder management
+    Who This Role Is Best For Someone with handson sourcingprocurement experience Comfortable 
+   working in a global fastpaced environment Interested in AIenabled procurement and digital transformation 
+   A team player who enjoys problemsolving and negotiations Why Join Work at the cutting edge of AI and automation Global
+    exposure and career growth Strong learning mentorship and innovation culture this kind of summarize what i maintain in backend printcleantexttext
